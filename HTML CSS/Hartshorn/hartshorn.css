@@ -1,0 +1,220 @@
+body {color: #000000;
+	font-family: 'NewBaskervilleFSRegular', Garamond, serif;
+	background-color: #c6c6c6;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	min-width: 600px;
+	}
+#wrapper {margin: 0 auto;
+	width: 80%;
+	min-width: 960px;
+	}
+hr {color: grey;
+	box-shadow:2px 2px 1px #000000;
+	}
+#header {color: #252525;
+	height: 50px;
+    padding: 10px 10px 0px 10px;
+	font-family: 'NewBaskervilleFSRegular', Garamond, serif;
+	text-shadow: 2px 2px 8px #F5F7BC;
+	font-size: 500%;
+	text-align: center;
+	}
+h1 {margin-bottom: 20px;
+	}
+#topmenu {text-align: center;
+	margin: 0 auto;
+	background-color: #c6c6c6;
+	padding-top: 30px;
+	}
+#topmenu ul {margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline;
+	}
+#topmenu ul li {margin: 0;
+	padding: 0;
+	display: inline;
+	text-align: center;
+	list-style: none;
+	font-family: 'NewBaskervilleFSRegular', Garamond, serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 2px 2px 8px #696969;
+	letter-spacing: 0.1em;
+	}
+#topmenu a {color: #252525;
+	padding: 20px;
+	text-decoration: none;
+	display: inline;
+	}
+#topmenu a:link {color: #252525;
+	}
+#topmenu a:visited {color: #000000;
+	}
+#topmenu a:hover { color: #af0000;
+	}
+.birdpic {position: relative;
+	padding-bottom: 50px;
+	float: left;
+	}
+.logopic {padding-right: 155px;
+	}
+#right {float: right;
+    width: 300px;
+	padding: 20px 10px 10px 10px;
+    background-color: #999967;
+	min-height: 570px;
+	}
+#tourdates {border: solid 1px black;
+	padding: 0px 5px 5px 5px;
+	background-color: #3E423F;
+	color: #af0000;
+	text-align: center;
+	box-shadow:3px 3px 3px #000000;
+	}
+#tourdates table {border: solid 1px black;
+	width: 100%;
+	background-color: #000000;
+	box-shadow:3px 3px 3px #000000;
+	}
+#tourdates h4 {font-size: 150%;
+	color: #ffffff;
+	text-shadow: 2px 2px 8px #000000;
+	letter-spacing: 0.1em;
+	}
+#tourdates th {font-size: 130%;
+	color: #ffffff;
+	}
+.link {color: #af0000;
+	text-decoration: none;
+	}
+.link:hover {color: #ffffff !important;
+	}
+#musicplayer {border: solid 1px black;
+	padding: 0px 10px 10px 10px;
+	background-color: #3E423F;
+	color: #ffffff;
+	box-shadow:3px 3px 3px #000000;
+	}
+#musicplayer h4 {text-align: center;
+	font-size: 150%;
+	text-shadow: 2px 2px 8px #000000;
+	letter-spacing: 0.1em;
+	}
+fieldset {border: none;
+	}
+#comments {border: 1px solid;
+	padding: 10px 10px 10px 10px;
+	box-shadow:3px 3px 3px #000000;
+	background-color: #999967;
+	}
+.signup {border: solid 1px black;
+	background-color: #999967;
+	text-align: center;
+	}
+#content {background-color: #999967;
+	color: #000000;
+	padding: 20px;
+	overflow: auto;
+	min-height: 560px;
+	}
+#content legend {color: white;
+	font-weight: bold;
+	background-color: #999967;
+	border: solid 1px black;
+	font-size: 150%;
+	letter-spacing: 0.1em;
+	}
+.news {padding: 5px 5px 5px 5px;
+	box-shadow:3px 3px 3px #000000;
+	font-size: 0.9em;
+	background-color: #3E423F;
+	min-height: 555px;
+	margin: auto;
+	}
+.news img {border: 1px solid #000000;
+	padding: 5px 5px 40px 5px;
+	background-color: #ffffff;
+	}
+#content table{margin: auto;
+	width: 100%;
+	border-spacing: 0;
+	}
+#content th {letter-spacing: 0.1em;
+	}
+#content td, th {padding: 5px;
+	font-family: 'NewBaskervilleFSRegular', Garamond, serif;
+	}
+.alternate {background-color: #ffffff;
+	}
+.alternate2 {background-color: #CCCC9A;
+	}
+.alternate2 th {font-size: 150%;
+	}
+.members {padding: 5px 5px 5px 5px;
+	box-shadow:3px 3px 3px #000000;
+	font-size: 0.9em;
+	background-color: #ffffff;
+	min-height: 555px;
+	margin: auto;
+	}
+.members h3 {font-weight: bold;
+	font-size: 130%;
+	background-color: #CCCC9A;
+	}
+.members a {	text-decoration: none;
+	}
+.members a:link {color: #ffffff;
+	}
+.members a:visited {color: #000000;
+	}
+.members a:hover { color: #af0000;
+	}
+.members p {font-style: italic;
+	}
+#footer {font-size: .80em;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	clear: both;
+	font-weight: bold;
+	color: #000000;
+	background-image: url(images/mapback.png);
+	border: 1px solid;
+	box-shadow:3px 3px 3px #000000;
+	}
+.bottomnav {background-color: #CCCC9A;
+	width: 300px;
+	margin: 0 auto;
+	border: 1px solid;
+	box-shadow:3px 3px 3px #000000;
+	}
+#footer a{text-decoration: none;
+	}
+#footer a:link {color: #ffffff;
+	}
+#footer a:visited {color: #000000;
+	}
+#footer a:hover { color: #af0000;
+	}
+.myEmail {color: #000000 !important;
+	}
+.myEmail:hover {color: #FFFFFF !important;
+	}
+#frontwrapper {margin: 0 auto;
+	width: 80%;
+	min-width: 960px;
+	}
+#frontpage {text-align: center;
+	margin: 0 auto;
+	padding-top: 50px;
+	}
+#frontbody {background-color: #c6c6c6;
+	}
+.buck {border-style: none;
+	}
+.foot {color: #af0000;
+	}
